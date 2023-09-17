@@ -1,0 +1,169 @@
+.myWeb{
+    margin: 20px auto;
+    width: 800px;
+    display: block;
+}
+.logo-block{
+    border: 2px solid pink;
+    border-radius: 50px;
+    width: 70px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.logo{
+    font-size: 20px;
+    font-family: 'Rosarivo', serif;
+    text-align: center;
+}
+.headText{
+    display: inline-block;
+    padding-top: 10px;
+}
+.about-me-block,
+.education-block,
+.socials-block{
+    display: inline-block;
+}
+.about-me,
+.education,
+.socials{
+    font-size: 20px;
+    font-family: 'Rosarivo', serif;
+    margin-left: 30px;
+}
+.mail-me-block{
+    
+    text-align: center;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: auto;
+}
+
+.mail-me{
+    font-size: 20px;
+    font-family: 'Rosarivo', serif;
+    background-color: rgb(221, 221, 221);
+    border: none;
+    transition: background-color 0.3s;
+}
+.mail-me:hover{
+    cursor: pointer;
+    background-color: rgb(199, 197, 197);
+}
+.mail-me:active{
+    cursor: pointer;
+    background-color: rgb(168, 167, 167);
+}
+.image-block{
+    display: inline-block;
+    padding-left: 30px;
+    height: 398px;
+}
+.image{
+    width: 222px;
+    height: 398px;
+}
+
+.title-name-block{
+    display: inline-block;
+    vertical-align: top;
+    margin: 100px;
+}
+.title-name{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+p#small-text-block{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: Calibri, sans-serif;
+}
+.second-page,
+.fourth-page{
+    padding-top: 5px;
+    background-color: rgba(245, 244, 244, 0.885);
+    padding-bottom: 20px;
+}
+.second-page-title,
+.third-page-title,
+.third-page-title,
+.fourth-page-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.characteristisc-block{
+    display: inline-block;
+    margin-left: 50px;
+}
+.characteristisc,
+.char-list{
+    font-weight: 200px;
+    font-size: 24px;
+}
+.text-block{
+    display: inline-block;
+    width: 400px;
+    margin-left: 90px;
+    margin-top: 30px;
+    line-height: 30px;
+    vertical-align: top;
+    padding: 10px;
+}
+.text{
+    display: inline-block;
+    text-align: center;
+}
+.third-page{
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.third-page-text,
+.text2{
+    display: inline-block;
+}
+
+.mini-title1,
+.mini-title2{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+.school-block,
+.course-block{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+img#school-img{
+    width: 400px;
+    margin-left: 50px;
+    border: 1px;
+    border-radius: 20px;
+}
+
+.text-me{
+    font-size: 28px;
+    font-family: 'Times New Roman', serif;
+}
+.curomi-block{
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    margin-left: 100px;
+    
+}
+img#curomi-pic{
+    width: 230px;
+}
+.fourth-page-text-block{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+
+    
